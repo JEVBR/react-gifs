@@ -1,13 +1,8 @@
-# react-boilerplate
+## WORK IN PROGRESS
 
-Simple react starter with the following config:
+## Description:
 
-- React, ReactDOM
-- Webpack 4
-- Babel with es2015 and react presets
-- Bootstrap (css only, loaded from a cdn in `index.html`)
-- work with `.js` or `.jsx` files
-- main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
+This is a React app which searches gifs from the Gifhy API, shows the list of the gifs on the richt side. The clicked gif is shown on th left side
 
 ## Scripts
 
