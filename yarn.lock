@@ -3007,6 +3007,11 @@ gh-pages@^2.0.1:
     graceful-fs "^4.1.11"
     rimraf "^2.6.2"
 
+giphy-api@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-2.0.1.tgz#30ddeb68d1346a592d26878db2fbc7ba1686ef91"
+  integrity sha512-6FKx6y26W1OqPtEOohvr3MOqCcYWajmz/svrjWm6XW2eP9mHvcQoi4aFg5afCakVF2b7zVllP0aNF45CGHZn+A==
+
 glob-parent@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-3.1.0.tgz#9e6af6299d8d3bd2bd40430832bd113df906c5ae"
@@ -4888,7 +4893,7 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-dom@16.2:
+react-dom@16.2.1:
   version "16.2.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.2.1.tgz#5cfb32f66267ece7b3850466bf3b219d4911fc1a"
   integrity sha512-0ujGgYnpX0GlaAjUfwU7ddy0DjuzPmTHHi2SlPolGv7hAyUpK7XA7WZcxit5ZcU7cW5QU1HJjlS3eMn42tSfYQ==
